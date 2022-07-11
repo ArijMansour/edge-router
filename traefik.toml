@@ -1,7 +1,7 @@
 logLevel = "INFO"
 
 [web]
-address = ":8080"
+address = ":8082"
 
 [entryPoints]
   [entryPoints.http]
